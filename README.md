@@ -11,29 +11,10 @@
 - [[pandas] 두 장으로 판다스 뽀개기_정리(2)](https://velog.io/@cyanred9/pandas-%EB%91%90-%EC%9E%A5%EC%9C%BC%EB%A1%9C-%ED%8C%90%EB%8B%A4%EC%8A%A4-%EB%BD%80%EA%B0%9C%EA%B8%B0%EC%A0%95%EB%A6%AC2)
 
 
-### Markdown
+## Project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 생활 데이터 프로젝트
+- 코로나19 상권분석
 
 ### Jekyll Themes
 
