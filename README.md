@@ -1,5 +1,5 @@
 ```markdown
-공부한 기록 / 프로젝트 목록 
+print("공부한 기록 / 프로젝트 목록") 
 ```
 
 ## Today I Learned
