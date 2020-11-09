@@ -14,7 +14,7 @@ print("공부한 기록 / 프로젝트 목록")
 ## Project
 
 - 생활 데이터 프로젝트
-- 코로나19 상권분석
+- 코로나19 상권분석([Team Github](https://github.com/nayoung5859/covid19_team2))
 
 ### Jekyll Themes
 
